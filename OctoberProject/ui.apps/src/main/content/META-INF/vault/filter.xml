@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/OctoberProject/clientlibs"/>
+    <filter root="/apps/OctoberProject/components"/>
+    <filter root="/apps/OctoberProject/i18n"/>
+</workspaceFilter>
